@@ -1,0 +1,13 @@
+docker-swarm-springboot-demo/
+├── README.md
+├── docker-compose.yml
+├── docker-stack.yml
+├── scripts/
+│   ├── build-images.sh
+│   ├── deploy-stack.sh
+│   └── init-swarm.sh
+├── eureka-server/
+├── config-server/
+├── gateway-service/
+├── user-service/
+└── order-service/
