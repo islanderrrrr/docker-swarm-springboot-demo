@@ -1,5 +1,3 @@
-# docker-swarm-springboot-demo
-
 # Docker Swarm Spring Boot 微服务演示项目
 
 这是一个专门为Docker Swarm集群部署实验设计的Spring Boot微服务项目。项目包含完整的微服务架构，包括服务注册中心、配置中心、API网关和业务服务。
