@@ -10,8 +10,6 @@ spring:
         native:
           search-locations: classpath:/config
         default-profile: native
-  profiles:
-    include: native
 
 eureka:
   client:
